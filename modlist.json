@@ -1,0 +1,32 @@
+[
+    {
+        "id": "basemental-drugs",
+        "name": "Basemental Drugs",
+        "version": "7.17.169",
+        "download_url": "https://basementalcc.com/wp-content/uploads/2024/03/Basemental-Drugs-7.17.169-PUBLIC.zip"
+    },
+    {
+        "id": "basemental-gangs",
+        "name": "Basemental Gangs",
+        "version": "6.20.59",
+        "download_url": "https://basementalcc.com/wp-content/uploads/2024/03/Basemental-Gangs-6.20.59-PUBLIC.zip"
+    },
+    {
+        "id": "mc-command-center",
+        "name": "McCommandCenter",
+        "version": "2024.4.1",
+        "download_url": "https://drive.google.com/uc?export=download&id=1KWZ9JyQFd5iql40ERo32dThXjmmFfgFL"
+    },
+    {
+        "id": "mc-woohoo",
+        "name": "McWooHoo",
+        "version": "2024.4.1",
+        "download_url": "https://drive.google.com/uc?export=download&id=1tSFJ2zr7bxIG-27LpI7i99KsplEotXhp"
+    },
+    {
+        "id": "ui-cheats-extension",
+        "name": "UI Cheats Extension",
+        "version": "1.41",
+        "download_url": "https://www.patreon.com/file?h=26240068&i=19097168"
+    }
+]
